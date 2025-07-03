@@ -26,7 +26,7 @@ A beginner-friendly cybersecurity project demonstrating real-time **network fore
 
 ## ⚙️ Tool Installation
 
-Setup scripts are in the [setup/](setup/) folder:
+Setup scripts are in the [setup/](zeek-suricata-lab/setup) folder:
 
 - `zeek-install.sh` – Install Zeek
 - `suricata-install.sh` – Install Suricata
