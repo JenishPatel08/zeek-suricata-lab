@@ -49,7 +49,7 @@ Zeek logs:
 Suricata logs:  
 📂 `/var/log/suricata/eve.json`
 
-Dummy logs available in [logs/](logs/)
+Dummy logs available in [logs/](zeek-suricata-lab/logs)
 
 ---
 
