@@ -1,0 +1,17 @@
+```json
+{
+  "timestamp": "2025-07-03T10:47:00.123456+0530",
+  "event_type": "alert",
+  "src_ip": "192.168.217.229",
+  "src_port": 50120,
+  "dest_ip": "10.0.2.15",
+  "dest_port": 22,
+  "proto": "TCP",
+  "alert": {
+    "signature_id": 2001219,
+    "signature": "ET SCAN Potential SSH Scan",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  }
+}
+```

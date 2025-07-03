@@ -1,0 +1,4 @@
+```tsv
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	method	host	uri	referrer	user_agent	status_code	status_msg
+1680481090.574935	CkHvul4P5owpZG	192.168.217.229	50120	93.184.216.34	80	GET	example.com	/index.html	-	Mozilla/5.0	200	OK
+```

