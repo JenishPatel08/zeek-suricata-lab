@@ -55,7 +55,8 @@ Dummy logs available in [logs/](logs/)
 
 ## 👨‍💻 Author
 
-Built by [Your Name] as part of a **Network Security Monitoring & Threat Detection** showcase project.
+Jenish Patel
+
 
 ---
 
@@ -67,7 +68,4 @@ Built by [Your Name] as part of a **Network Security Monitoring & Threat Detecti
 
 ---
 
-## 🛡️ License
-
-MIT License – see [LICENSE](LICENSE)
 
