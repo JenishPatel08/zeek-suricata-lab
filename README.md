@@ -37,7 +37,7 @@ Setup scripts are in the [setup/](zeek-suricata-lab/setup) folder:
 ## 🧪 Simulated Attacks
 
 See the commands used in:
-📁 `attacks/hydra_ssh_bruteforce_command.txt`
+📁 `attacks/kali_attack_command.txt`
 
 ---
 
